@@ -1,0 +1,26 @@
+.bg-black {
+	background-color: black;
+	height: 201px;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+}
+
+.font-div {
+	width: 25%;
+}
+
+.container {
+font-family: 'Fira Sans', sans-serif;
+}
+
+
+
+/*responsive*/
+@media	only screen	and (max-width: 650px){
+	.font-div {
+		padding: 42.5px 0px!important;
+	}
+}
