@@ -3,6 +3,18 @@
 	height: 201px;
 }
 
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url(../img/back1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-attachment: fixed;
+	opacity: 0.9;
+
+}
+
 img {
 	height: 100%;
 	width: 100%;
