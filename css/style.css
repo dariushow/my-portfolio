@@ -1,3 +1,10 @@
+.work-exp {
+	color: white;
+	font-size: 62px;
+	font-weight: bolder;
+	letter-spacing: 2px;
+}
+
 .bg-black {
 	background-color: white;
 	height: 201px;
@@ -21,11 +28,16 @@
 
 .my-skills {
 	font-weight: 100px;
-	font-size: 32px;
+	font-size: 42px;
+	
+	letter-spacing: 10px;
+	font-family: 'Staatliches', cursive;
 }
 
 .ul-text {
-	font-size: 26px;
+	font-size: 32px;
+	font-family: 'Cinzel', serif;
+	letter-spacing: 2px;
 }
 
 #HTML5 {
@@ -81,22 +93,22 @@ body {
 
 @keyframes bgcolor {
 	0% {
-		background: #e74c3c;
+		background: #414a4c;
 	}
 	20% {
-		background: #2980b9;
+		background: #3b444b;
 	}
 	40% {
-		background: #f1c40f;
+		background: #353839;
 	}
 	60% {
-		background: #8e44ad	;
+		background: #232b2b	;
 	}
 	80% {
-		background: #8e44ad;
+		background: #0e1111;
 	}
 	100% {
-		background: #e74c3c;
+		background: black;
 	}
 	
 
@@ -499,3 +511,10 @@ body {
 
 
 /*end of 3d carousel*/
+
+.project-text {
+	font-family: 'Cinzel', serif;
+	color: white;
+	font-size: 28px;
+	
+}
